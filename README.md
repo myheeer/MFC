@@ -32,6 +32,7 @@
 ## 🛠️ 项目结构
 MDINotepad/
 ├── Resource.h # 资源ID定义
+
 ├── MDINotepad.h/cpp # 应用程序主类
 ├── MainFrm.h/cpp # 主框架窗口
 ├── ChildFrm.h/cpp # 子窗口框架
