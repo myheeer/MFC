@@ -31,17 +31,27 @@
 
 ## 🛠️ 项目结构
 MDINotepad/
+
 ├── Resource.h # 资源ID定义
 
 ├── MDINotepad.h/cpp # 应用程序主类
+
 ├── MainFrm.h/cpp # 主框架窗口
+
 ├── ChildFrm.h/cpp # 子窗口框架
+
 ├── MDINotepadDoc.h/cpp # 文档类（文件操作）
+
 ├── MDINotepadView.h/cpp # 视图类（显示和编辑）
+
 ├── CFindDialog.h/cpp # 查找替换对话框
+
 ├── resource/ # 资源文件（对话框、图标等）
+
 ├── pch.h/cpp # 预编译头文件
+
 └── README.md # 项目说明文档
+
 
 
 ## 📋 系统要求
