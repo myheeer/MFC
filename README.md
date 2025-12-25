@@ -1,4 +1,4 @@
-<img width="943" height="940" alt="image" src="https://github.com/user-attachments/assets/8193f06a-2925-425d-b2a9-64505d251fc4" /># MDINotepad - MFC多文档记事本
+# MDINotepad - MFC多文档记事本
 
 一个基于MFC框架开发的多文档界面(MDI)记事本应用程序，具有丰富的文本编辑功能和自定义文件格式支持。
 
